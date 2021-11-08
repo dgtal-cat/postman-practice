@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email": "alekskremnyov@yandex.ru",
+        "username": "kremnev",
+        "bio": null,
+        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsZWtza3JlbW55b3ZAeWFuZGV4LnJ1IiwidXNlcm5hbWUiOiJrcmVtbmV2IiwiYmlvIjpudWxsLCJpbWFnZSI6Imh0dHBzOi8vYXBpLnJlYWx3b3JsZC5pby9pbWFnZXMvc21pbGV5LWN5cnVzLmpwZWciLCJpYXQiOjE2MzYzODM2MzQsImV4cCI6MTY0MTU2NzYzNH0.-mCJvAHs9MOPQu01yEI68NekPXAWqXBt3r57eubEuss"
+    }
+}
